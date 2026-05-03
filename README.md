@@ -23,7 +23,7 @@ I used the ping command to test connectivity between my device and external serv
 The ping test returned successful replies, confirming that the network connection was active and stable.
 
 ## Screenshots
-(Add your screenshot here)
+![Ping Test](ping-test.png)
 
 ## Conclusion
 This project helped me understand how to test network connectivity and troubleshoot basic connection issues.
