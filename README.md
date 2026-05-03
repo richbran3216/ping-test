@@ -1,30 +1,29 @@
-
 # Ping Connectivity Test
 
 ## Project Summary
-In this project, I practiced using command line tools to view and understand IP configuration details on my device.
+In this project, I tested network connectivity using the ping command. The goal was to verify that my device could communicate with external servers.
 
 ## Tools Used
 - Command Prompt / Terminal
-- ipconfig command
+- ping command
 
 ## Environment
-- Chromebook (Crosh/Terminal)
+- Chromebook (Crosh / Terminal)
 
 ## What I Did
-I used the ipconfig command to check my device’s IP address, default gateway, and network configuration.
+I used the ping command to test connectivity between my device and external servers (Google). This helped confirm whether my internet connection was working properly.
 
 ## Steps Performed
 1. Opened terminal  
-2. Ran ipconfig (or ifconfig)  
-3. Reviewed IP address and network details  
-4. Identified default gateway  
+2. Ran command: ping google.com  
+3. Observed response times and packet replies  
+4. Verified successful connection  
 
 ## Results
-The command displayed my device’s network configuration, confirming connection to the network.
+The ping test returned successful replies, confirming that the network connection was active and stable.
 
 ## Screenshots
-![IP Config](ping-test.png)
+(Add your screenshot here)
 
 ## Conclusion
-This project helped me understand how to check network settings and troubleshoot connectivity issues
+This project helped me understand how to test network connectivity and troubleshoot basic connection issues.
