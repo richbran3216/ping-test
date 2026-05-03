@@ -22,7 +22,7 @@ I used the ping command to test connectivity between my device and external serv
 ## Results
 The ping test returned successful replies, confirming that the network connection was active and stable.
 
-## Screenshots
+## Screenshot
 ![Ping Test](ping-test.png)
 
 ## Conclusion
