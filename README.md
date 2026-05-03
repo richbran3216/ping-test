@@ -1,5 +1,5 @@
 
-# IP Configuration Commands
+# Ping Connectivity Test
 
 ## Project Summary
 In this project, I practiced using command line tools to view and understand IP configuration details on my device.
